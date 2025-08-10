@@ -4,6 +4,8 @@ A Python tool to generate personalized event tickets from Excel data using PIL. 
 🎟️ Event Ticket Generator with QR Code (Python + PIL)
 This project is a Python-based tool that generates customized black-and-white event tickets using participant details from an Excel sheet. It incorporates image processing, font styling, and dynamic QR code embedding for venue access.
 
+[![Lekhana-ticket-3.png](https://i.postimg.cc/zBkxjsBj/Lekhana-ticket-3.png)](https://postimg.cc/mzt3Z67z)
+
 ✨ Features:
 📥 Reads names and email addresses from Excel (.xlsx) using pandas.
 
